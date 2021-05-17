@@ -1,0 +1,38 @@
+.myrows{
+    border: 3px solid green;
+}
+
+.mycols{
+    border: 3px solid red;
+}
+#topHeader{
+    background-color: ghostwhite;
+    border-bottom: 1px solid silver;
+}
+#topHeader a{
+    text-decoration: none;
+    color: #2c3e50;
+    font-size: 0.89rem;
+    font-weight: 600;
+}
+.navbar-brand{
+    font-family:cursive;
+}
+#bottomHeader a{
+    font-weight: 600;
+}
+#topFooter{
+    background-color: #2c3e50;
+    color: white;
+    
+}
+#topFooter a{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+#bottomFooter{
+    color: white;
+    background-color: #130f40;
+    text-align: center;
+}
