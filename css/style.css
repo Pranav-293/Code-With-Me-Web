@@ -9,6 +9,9 @@
     background-color: ghostwhite;
     border-bottom: 1px solid silver;
 }
+.navbar{
+    background-color: #1A237E;
+}
 #topHeader a{
     text-decoration: none;
     color: #2c3e50;
@@ -35,4 +38,56 @@
     color: white;
     background-color: #130f40;
     text-align: center;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:30.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+#section-a{
+    background-color: #3F51B5;
+    color: white;
+}
+#section-a a{
+    color: white
+}
+.btn{
+    background-color: #1A237E;
+    color: white;
+    margin: 5px
+}
+#section-c{
+    background-color: #3F51B5;
+    color: white;
+    align-content: center;
+}
+#section-e{
+    background-color: #3F51B5;
+    color: white;
+    padding: 5px;
+}
+
+#section-e input{
+    border-radius: 20px 20px 20px 20px;
+    border-color: white;
+    align-content: center;
+}
+#section-e button{
+    border-radius: 20px 20px 20px 20px;
+    border-color: white;
+    align-content: center;
+}
+#breadCrumbs-section{
+    background-color: aliceblue;
+}
+#portfolio-a p{
+    font-family: cursive;
 }
